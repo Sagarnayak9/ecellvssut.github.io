@@ -1,0 +1,43 @@
+*{
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+h1{
+color: rgb(255, 0, 4);
+}
+
+    
+
+fieldset{
+    background-color: rgba(149, 126, 223, 0.319);
+    height:600px;
+    width: 300px;
+    box-shadow: inset;
+}
+form{ height:50%;
+    width:50%;
+    margin-top: 0%;
+    margin-left: 25%;
+}
+body{
+    background-image: url(download1.png);
+    background-repeat: no-repeat;
+    margin-left: 50%;
+
+    background-color:rgba(72, 232, 232, 0.517)
+
+}
+legend{
+    font-size :20px;
+    border-color: rgb(56, 19, 220);
+    border:solid red;
+}
+table{
+    font-size:20px;
+    width: auto;
+    
+}
+p{
+    text-align: left;
+}
